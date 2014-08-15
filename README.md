@@ -4,7 +4,7 @@ Flexfun is a simple,flex based and easy to use css framework.It currently suppor
 
 ## Demo
 
-Preparing...
+<a href="http://btayfun.github.io/flexfun/">See Demo</a>
 
 ## Installation
 
