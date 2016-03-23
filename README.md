@@ -4,12 +4,12 @@ Flexfun is a simple,flex based and easy to use css framework.It currently suppor
 
 ## Demo
 
-<a href="http://btayfun.github.io/flexfun/">See Demo</a>
+<a href="http://funcolt.github.io/flexfun/">See Demo</a>
 
 ## Installation
 
-- clone : `git clone https://github.com/btayfun/flexfun.git`
-- Easy Download : [https://github.com/btayfun/flexfun/archive/master.zip](https://github.com/btayfun/flexfun/archive/master.zip "Easy Download")
+- clone : `git clone https://github.com/funcolt/flexfun.git`
+- Easy Download : [https://github.com/funcolt/flexfun/archive/master.zip](https://github.com/funcolt/flexfun/archive/master.zip "Easy Download")
 
 ## Getting Started 
 
